@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/cap-githubpages-test/static/css/main.fe2f455f.chunk.css",
-    "main.js": "/cap-githubpages-test/static/js/main.8fba72d0.chunk.js",
-    "main.js.map": "/cap-githubpages-test/static/js/main.8fba72d0.chunk.js.map",
-    "runtime-main.js": "/cap-githubpages-test/static/js/runtime-main.d4e5d955.js",
-    "runtime-main.js.map": "/cap-githubpages-test/static/js/runtime-main.d4e5d955.js.map",
-    "static/js/2.9857d7d1.chunk.js": "/cap-githubpages-test/static/js/2.9857d7d1.chunk.js",
-    "static/js/2.9857d7d1.chunk.js.map": "/cap-githubpages-test/static/js/2.9857d7d1.chunk.js.map",
-    "static/js/3.0960752d.chunk.js": "/cap-githubpages-test/static/js/3.0960752d.chunk.js",
-    "static/js/3.0960752d.chunk.js.map": "/cap-githubpages-test/static/js/3.0960752d.chunk.js.map",
-    "static/js/4.07b9acff.chunk.js": "/cap-githubpages-test/static/js/4.07b9acff.chunk.js",
-    "static/js/4.07b9acff.chunk.js.map": "/cap-githubpages-test/static/js/4.07b9acff.chunk.js.map",
+    "main.js": "/cap-githubpages-test/static/js/main.9c8d748c.chunk.js",
+    "main.js.map": "/cap-githubpages-test/static/js/main.9c8d748c.chunk.js.map",
+    "runtime-main.js": "/cap-githubpages-test/static/js/runtime-main.e540568a.js",
+    "runtime-main.js.map": "/cap-githubpages-test/static/js/runtime-main.e540568a.js.map",
+    "static/js/2.067fd893.chunk.js": "/cap-githubpages-test/static/js/2.067fd893.chunk.js",
+    "static/js/2.067fd893.chunk.js.map": "/cap-githubpages-test/static/js/2.067fd893.chunk.js.map",
+    "static/js/3.8358d6a1.chunk.js": "/cap-githubpages-test/static/js/3.8358d6a1.chunk.js",
+    "static/js/3.8358d6a1.chunk.js.map": "/cap-githubpages-test/static/js/3.8358d6a1.chunk.js.map",
+    "static/js/4.e109645a.chunk.js": "/cap-githubpages-test/static/js/4.e109645a.chunk.js",
+    "static/js/4.e109645a.chunk.js.map": "/cap-githubpages-test/static/js/4.e109645a.chunk.js.map",
     "index.html": "/cap-githubpages-test/index.html",
     "static/css/main.fe2f455f.chunk.css.map": "/cap-githubpages-test/static/css/main.fe2f455f.chunk.css.map",
-    "static/js/2.9857d7d1.chunk.js.LICENSE.txt": "/cap-githubpages-test/static/js/2.9857d7d1.chunk.js.LICENSE.txt"
+    "static/js/2.067fd893.chunk.js.LICENSE.txt": "/cap-githubpages-test/static/js/2.067fd893.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4e5d955.js",
-    "static/js/2.9857d7d1.chunk.js",
+    "static/js/runtime-main.e540568a.js",
+    "static/js/2.067fd893.chunk.js",
     "static/css/main.fe2f455f.chunk.css",
-    "static/js/main.8fba72d0.chunk.js"
+    "static/js/main.9c8d748c.chunk.js"
   ]
 }
